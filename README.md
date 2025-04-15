@@ -17,10 +17,10 @@ I have included the full KiCad project along with the Mouser Cart, BOM, and Gerb
 The parts not listed in the BOM that you need are as follows:
 - GY-PCM5102 Digital to Analog Audio Converter
 - Raspberry Pi Zero 2 W
-- Any other components for your specific project such as external buttons/encoders, external connectors, i2c screen, etc.
+- Any other components for your specific project such as external buttons/encoders, external connectors, and i2c screens.
 
 \
-Please read the original mt32-pi repository linked in the information section for compatibility of parts.
+Please read the original mt32-pi repository linked in the information section for compatibility of screens, encoders, etc..
 
 ## License
 This project uses the UNLICENSE. Feel free to do what you want with it. Check over the project before ordering. Build at your own risk.
