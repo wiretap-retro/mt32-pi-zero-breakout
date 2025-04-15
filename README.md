@@ -23,4 +23,4 @@ The parts not listed in the BOM that you need are as follows:
 Please read the original mt32-pi repository linked in the information section for compatibility of parts.
 
 ## License
-This project uses the UNLICENSE. Feel free to do what you want with it. 
+This project uses the UNLICENSE. Feel free to do what you want with it. Check over the project before ordering. Build at your own risk.
