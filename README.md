@@ -12,6 +12,9 @@ This PCB I designed is a breakout board style header for small DIY mt32-pi proje
 \
 \
 I have included the full KiCad project along with the Mouser Cart, BOM, and Gerber files for ease of upload. The design is minimalist to allow you flexibility for connectivity. I plan on using this with mostly panel-mount style connectors in my enclosure, so all I needed was solder points or 2.54mm spacing dupont connectors for everything.
+\
+\
+Designed for use with my 5.25" bay panel found here: https://github.com/wiretap-retro/mt32-pi-bay
 
 ## Parts
 The parts not listed in the BOM that you need are as follows:
