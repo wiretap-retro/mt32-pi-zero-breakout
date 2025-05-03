@@ -25,5 +25,8 @@ The parts not listed in the BOM that you need are as follows:
 \
 Please read the original mt32-pi repository linked in the information section for compatibility of screens, encoders, etc..
 
+## Revision Notes
+2025-05-03 --- Updated BOM to correct capacitor C1 diameter/size.
+
 ## License
 This project uses the UNLICENSE. Feel free to do what you want with it. Check over the project before ordering. Build at your own risk.
