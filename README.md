@@ -23,7 +23,7 @@ The parts not listed in the BOM that you need are as follows:
 - Any other components for your specific project such as external buttons/encoders, external connectors, and i2c screens.
 
 \
-Please read the original mt32-pi repository linked in the information section for MT32-pi compatible screens, encoders, etc..
+Please read the original mt32-pi repository linked in the information section for compatible screens, encoders, etc..
 
 ## Revision Notes
 2025-05-03 --- Updated BOM to correct capacitor C1 diameter/size.
